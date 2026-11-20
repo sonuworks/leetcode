@@ -1,6 +1,10 @@
 ---
 comments: true
 difficulty: Medium
+rating: 1333
+source: Weekly Contest 527 Q1
+tags:
+    - String
 ---
 
 <!-- problem:start -->

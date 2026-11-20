@@ -1,6 +1,13 @@
 ---
 comments: true
 difficulty: 中等
+rating: 2015
+source: 第 527 场周赛 Q3
+tags:
+    - 树
+    - 深度优先搜索
+    - 字符串
+    - 动态规划
 ---
 
 <!-- problem:start -->

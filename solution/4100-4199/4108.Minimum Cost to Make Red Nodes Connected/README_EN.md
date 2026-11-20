@@ -1,6 +1,13 @@
 ---
 comments: true
 difficulty: Medium
+rating: 2015
+source: Weekly Contest 527 Q3
+tags:
+    - Tree
+    - Depth-First Search
+    - String
+    - Dynamic Programming
 ---
 
 <!-- problem:start -->

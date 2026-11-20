@@ -1,6 +1,16 @@
 ---
 comments: true
 difficulty: Hard
+rating: 2384
+source: Weekly Contest 527 Q4
+tags:
+    - Array
+    - Hash Table
+    - Counting
+    - String Matching
+    - Sliding Window
+    - Hash Function
+    - Rolling Hash
 ---
 
 <!-- problem:start -->

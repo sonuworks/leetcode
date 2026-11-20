@@ -1,6 +1,12 @@
 ---
 comments: true
 difficulty: 中等
+rating: 1621
+source: 第 527 场周赛 Q2
+tags:
+    - 数组
+    - 哈希表
+    - 计数
 ---
 
 <!-- problem:start -->

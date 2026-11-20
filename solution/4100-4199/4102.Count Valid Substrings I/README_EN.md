@@ -1,6 +1,11 @@
 ---
 comments: true
 difficulty: Medium
+rating: 1535
+source: Biweekly Contest 195 Q1
+tags:
+    - String
+    - Enumeration
 ---
 
 <!-- problem:start -->
